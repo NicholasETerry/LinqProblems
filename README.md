@@ -1,2 +1,2 @@
 # LinqProblems
-LINQ practice problem for DevCodeCamp
+LINQ practice problems for DevCodeCamp
